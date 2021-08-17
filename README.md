@@ -1,4 +1,4 @@
-# nRF24LE1_SDK
+# nRF24LE1 SDK
 
 SDK for the Nordic nRF24LE1 for use with SDCC
 
